@@ -1,4 +1,4 @@
-# AstroFic IP Checker (Only Windows 10 64x)
+# AstroFic IP Checker
 ## Проверка пинга и порта выбранных IP диапазонов
 ### Возможности:
 - *Сканирование по **CIDR** диапазонам*
