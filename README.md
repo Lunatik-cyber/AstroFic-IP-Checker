@@ -1,4 +1,4 @@
-# AstroFic IP Checker
+# AstroFic IP Checker (Windows only)
 ## Проверка пинга и порта выбранных IP диапазонов
 ### Возможности:
 - *Сканирование по **CIDR** диапазонам*
